@@ -45,7 +45,7 @@ function Contact() {
             <FaWhatsapp className="text-5xl mb-4" />
             <h2 className="text-xl font-semibold mb-2">WhatsApp:</h2>
             <a
-              href="https://api.whatsapp.com/send?phone=1234567890"
+              href="https://api.whatsapp.com/send?phone=6394887052"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-500 hover:underline"
